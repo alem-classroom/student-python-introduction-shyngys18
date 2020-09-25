@@ -16,7 +16,7 @@ def is_even(num):
 
 
 def is_positive_and_even(num):
-    if num>=0 && num%2 == 0:
+    if num>=0 & num%2 == 0:
         return true
     else:
         return false
